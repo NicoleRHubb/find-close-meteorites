@@ -6,4 +6,7 @@ demo python script
 
 This project requires python3 and the requests package
 
-`python3 find_meteors.py`
+You will need to install pipenv first
+Then you can run the code using this command
+
+`pipenv run "python3 find_meteors.py"`
